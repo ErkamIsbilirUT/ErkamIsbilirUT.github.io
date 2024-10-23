@@ -19,3 +19,11 @@
     margin-bottom: 10px;
     background-color: magenta;
 }
+
+
+/* Going to apply this style to the  <h2> tags */
+h2 {
+    color: yellow;
+    font-size: 20px;
+    text-align: left;
+}

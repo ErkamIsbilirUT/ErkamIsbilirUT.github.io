@@ -16,6 +16,7 @@
 .box {
     border: 3px dashed pink;
     padding: 10px;
+    margin-top: 10px;
     margin-bottom: 10px;
     background-color: magenta;
 }
@@ -26,4 +27,12 @@ h2 {
     color: yellow;
     font-size: 20px;
     text-align: left;
+}
+
+
+/* Going to insert a image of a chessboard under my hobbies to give a visual for it */
+#chess-image {
+    display: block;
+    margin: 10px;
+    position: relative;
 }

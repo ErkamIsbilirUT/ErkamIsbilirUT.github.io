@@ -5,3 +5,9 @@
     color: lightblue;
     text-decoration: none;
 }
+
+/* Changing the color of the link from light blue to light green when I hover my mouse over it */
+#linkedin-link:hover {
+    color: lightgreen;
+    text-decoration: underline;
+}

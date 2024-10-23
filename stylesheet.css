@@ -1,1 +1,7 @@
-Hello World css
+
+
+/* this is how the link will look in general */
+#linkedin-link {
+    color: lightblue;
+    text-decoration: none;
+}

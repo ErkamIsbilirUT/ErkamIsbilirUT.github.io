@@ -11,3 +11,11 @@
     color: lightgreen;
     text-decoration: underline;
 }
+
+/* Making a dashed box where I will list some info */
+.box {
+    border: 3px dashed pink;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: magenta;
+}
